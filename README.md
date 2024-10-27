@@ -35,3 +35,4 @@ Notes:
 
 Contributors:
 - Stefanos Sauciuc
+- Model: Fadi Badine
